@@ -6,6 +6,5 @@ Maintainer:  Nick Lukianoff <NLukianoff@aol.com>
 License: GPL-2
 Description: Load address data, cleans it up, validates it, and adds latitude, longitude, statistics
 Depends: R (>= 3.2.1)
-Imports: zipcode
-Depends: ggmap, ggplot2, manipulate
+Imports: zipcode, ggplot2, ggmap, manipulate
 LazyData: true
