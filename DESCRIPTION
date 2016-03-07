@@ -1,11 +1,11 @@
-Package:  SECAddresses
-Title:   Read and clean data from SEC 10K and 10Q address files
-Version:  1.0
-Author:  Nick Lukianoff
+Package: SECAddresses
+Title: Read and clean data from SEC 10K and 10Q address files
+Version: 1.0
+Author: Nick Lukianoff
 Maintainer:  Nick Lukianoff <NLukianoff@aol.com>
 License: GPL-2
-Description:  Load address data, cleans it up, validates it, and adds latitude, longitude, statistics
-Depends:  R (>= 3.2.1)
-Imports:  zipcode
-Depends:  ggplot2, ggmap, manipulate
+Description: Load address data, cleans it up, validates it, and adds latitude, longitude, statistics
+Depends: R (>= 3.2.1)
+Imports: zipcode
+Depends: ggplot2, ggmap, manipulate
 LazyData: true
